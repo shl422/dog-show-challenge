@@ -119,12 +119,6 @@
       "name": "Coco",
       "breed": "Affenpinscher",
       "sex": "female"
-    },
-    {
-      "name": "Missy",
-      "breed": "Shih tzu",
-      "sex": "F",
-      "id": 21
     }
   ]
 }
